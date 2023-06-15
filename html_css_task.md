@@ -1,5 +1,4 @@
-HTML & CSS tasks
-Design: https://xd.adobe.com/spec/f6d16b42-d410-4eaf-7c54-d8a35b789078-80e0/grid/
+[HTML & CSS tasks](https://xd.adobe.com/spec/f6d16b42-d410-4eaf-7c54-d8a35b789078-80e0/grid/)
 
 1. Separate the task into smaller, logical units and implement each of them on a separate branch (use git flow and name the branches in accordance to what they contain)
 2. Creatе a separate pull request for each branch
